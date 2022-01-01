@@ -22,7 +22,7 @@ import org.junit.Test;
  * Unit test for simple App.
  */
 
-/*
+
 public class AppTest 
 {
 	@BeforeClass
@@ -71,7 +71,7 @@ public class AppTest
 		String resultado = App.listaNombres("Paco", "Fran");
 		assertNotNull(resultado);
 	}
-	
+	/*
 	@Test
 	public void testListaAnimales() {
 		String resultado = App.listaAnimales("gato", "gato");
@@ -105,6 +105,5 @@ public class AppTest
 		int resultado = App.resta(2, 2);
 		int esperado = 0;
 		assertEquals(esperado, resultado);
-	}
+	}*/
 }
-*/
