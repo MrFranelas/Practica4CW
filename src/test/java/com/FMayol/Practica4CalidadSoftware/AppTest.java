@@ -21,6 +21,8 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
+
+/*
 public class AppTest 
 {
 	@BeforeClass
@@ -105,3 +107,4 @@ public class AppTest
 		assertEquals(esperado, resultado);
 	}
 }
+*/
